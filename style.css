@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    text-decoration: none;
+}
+
+.one,.two,.three,.four{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 1rem;
+    border:.425rem solid black;
+    margin: 1.5rem;
+}
+
+.flex_box{
+    display:flex;
+}
+
+.box_container{
+    flex-direction: column;
+    align-items: center;
+}
+
+.red{
+    background-color: #d95980 ;
+}
+
+.yellow{
+    background-color: #f99b45 ;
+}
+
+.green{
+    background-color: #63aac0 ;
+}
+
+.purple{
+    background-color: #829ff9;
+}
+
+.flash{
+    background-color: white;
+}
